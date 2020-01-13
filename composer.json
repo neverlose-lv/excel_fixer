@@ -1,0 +1,14 @@
+{
+    "name": "fashiondeals/excel_fixer",
+    "description": "Fixes .xls document. Copies the original prices to the variable products.",
+    "type": "tool",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.10"
+    },
+    "authors": [
+        {
+            "name": "Sergejs Volkovs",
+            "email": "volkk@inbox.lv"
+        }
+    ]
+}

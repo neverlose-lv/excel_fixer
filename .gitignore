@@ -1,0 +1,4 @@
+/vendor/
+/*.xls
+/composer.lock
+.DS_Store
